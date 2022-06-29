@@ -34,8 +34,6 @@ public class TechniqueEx10_03 {
 		
 		// 인터페이스의 타입으로 객체 생성 가능 
 		
-		
-		
 		Person c2 = new Children();	
 		Person s2 = new Student();
 		Person a2 = new Adult();
